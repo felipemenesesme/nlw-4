@@ -39,7 +39,7 @@ Note: If you are running on Windows run install --noptional flag (i.e. `npm inst
 
 ## Author
 
-<img src="https://avatars.githubusercontent.com/u/36025495?s=460&u=446de1ee8ad2eb9533345b02475356d004bf51cc&v=4" height="auto" width="100px" style="border-radius: 50%;"  alt="Felipe Meneses"/>
+<a href="https://github.com/iMuloo"><img src="https://avatars.githubusercontent.com/u/36025495?s=460&u=446de1ee8ad2eb9533345b02475356d004bf51cc&v=4" height="auto" width="100px" style="border-radius: 50%;"  alt="Felipe Meneses"/></a>
 
 Felipe Meneses 👋🏻
 Find me:
