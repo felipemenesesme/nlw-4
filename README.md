@@ -1,6 +1,8 @@
 # Next Level Week Project
 
-The following tools were used in the construction of the project:
+The move.it project helps to improve your health in a fun way and increasing your productivity, using the Pomodoro technique, move.it makes a 25 minute countdown, after that time, it releases a challenge, which can be armies for the eyes or stretching to the body. Each challenge has an amount of XP that you can use to level up.
+
+The following tools were used in the application:
 
 - [NextJS](https://nextjs.org)
 - [ReactJS](https://reactjs.org)
