@@ -41,7 +41,7 @@ Note: If you are running on Windows run install --noptional flag (i.e. `npm inst
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/36025495?s=460&u=446de1ee8ad2eb9533345b02475356d004bf51cc&v=4" width="100px;" alt="Felipe Meneses"/>
 
-Felipe Meneses
+Felipe Meneses 👋🏻
 Find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-felipe_meneses-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-meneses-me/)](https://www.linkedin.com/in/felipe-meneses-me/)
